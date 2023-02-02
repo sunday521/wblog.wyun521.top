@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as n,s}from"./framework-25b03c29.js";const _={},c=s("p",null,"开始阅读吧",-1),o=[c];function r(a,l){return t(),n("div",null,o)}const i=e(_,[["render",r],["__file","index.html.vue"]]);export{i as default};
